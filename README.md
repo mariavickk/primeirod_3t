@@ -1,7 +1,9 @@
-# Terceiro Trimestre
+## Terceiro Trimestre
 
-#Identificação
-##Maria - Nr 35
+##Identificação
+
+Maria - Nr 35
 
 ##Conteúdo
-HTML, css e javascript
+
+HTML, Css e JavaScript
